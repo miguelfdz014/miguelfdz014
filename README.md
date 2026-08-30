@@ -33,5 +33,3 @@ When I'm not coding I'm at the gym, playing WoW, or shooting black and white pho
 ## Reach Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguelfdz014)
-
-<img src="https://raw.githubusercontent.com/Kalyan-cmd/Kalyan-cmd/main/assets/footer.svg" width="100%" />
