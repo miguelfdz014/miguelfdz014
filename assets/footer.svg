@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="End of file">
+  <style>
+    .mono{font-family:ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace}
+    .jp{font-family:'Yu Gothic','Hiragino Sans','Noto Sans JP','Meiryo',sans-serif}
+    .beat{stroke-dasharray:260 2200;animation:beat 4s linear infinite}
+    @keyframes beat{0%{stroke-dashoffset:2460}100%{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion:reduce){.beat{animation:none}}
+  </style>
+  <rect width="1200" height="150" fill="#000"/>
+  <path d="M0 70 H150 L160 64 L170 70 H178 L186 24 L196 104 L204 70 H214 L226 58 L238 70 H390 L400 64 L410 70 H418 L426 24 L436 104 L444 70 H454 L466 58 L478 70 H630 L640 64 L650 70 H658 L666 24 L676 104 L684 70 H694 L706 58 L718 70 H870 L880 64 L890 70 H898 L906 24 L916 104 L924 70 H934 L946 58 L958 70 H1110 L1120 64 L1130 70 H1138 L1146 24 L1156 104 L1164 70 H1174 L1186 58 L1198 70 H1200" fill="none" stroke="#3B0764" stroke-width="1.5"/>
+  <path class="beat" d="M0 70 H150 L160 64 L170 70 H178 L186 24 L196 104 L204 70 H214 L226 58 L238 70 H390 L400 64 L410 70 H418 L426 24 L436 104 L444 70 H454 L466 58 L478 70 H630 L640 64 L650 70 H658 L666 24 L676 104 L684 70 H694 L706 58 L718 70 H870 L880 64 L890 70 H898 L906 24 L916 104 L924 70 H934 L946 58 L958 70 H1110 L1120 64 L1130 70 H1138 L1146 24 L1156 104 L1164 70 H1174 L1186 58 L1198 70 H1200" fill="none" stroke="#A855F7" stroke-width="2.5" stroke-linejoin="round"/>
+  <text class="mono" x="600" y="136" font-size="13" letter-spacing="4" fill="#8B8B99" text-anchor="middle">END OF FILE</text>
+  <text class="jp" x="1184" y="136" font-size="13" fill="#A855F7" text-anchor="end">記録終了</text>
+</svg>
