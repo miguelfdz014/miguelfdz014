@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" preserveAspectRatio="none" role="presentation">
+  <style>
+    .pulse{animation:run 7s linear infinite}
+    @keyframes run{0%{transform:translateX(-200px)}100%{transform:translateX(1300px)}}
+    @media (prefers-reduced-motion:reduce){.pulse{animation:none;opacity:0}}
+  </style>
+  <defs><linearGradient id="p"><stop offset="0" stop-color="#A855F7" stop-opacity="0"/><stop offset="1" stop-color="#E9D5FF"/></linearGradient></defs>
+  <path d="M0 12H560L572 4H628L640 12H1200" fill="none" stroke="#3B0764" stroke-width="2"/>
+  <rect x="580" y="6" width="40" height="3" fill="#A855F7"/>
+  <rect class="pulse" x="0" y="11" width="160" height="2" fill="url(#p)"/>
+</svg>
