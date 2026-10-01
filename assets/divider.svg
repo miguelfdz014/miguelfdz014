@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" preserveAspectRatio="none" role="presentation">
-  <style>
-    .pulse{animation:run 7s linear infinite}
-    @keyframes run{0%{transform:translateX(-200px)}100%{transform:translateX(1300px)}}
-    @media (prefers-reduced-motion:reduce){.pulse{animation:none;opacity:0}}
-  </style>
-  <defs><linearGradient id="p"><stop offset="0" stop-color="#A855F7" stop-opacity="0"/><stop offset="1" stop-color="#E9D5FF"/></linearGradient></defs>
-  <path d="M0 12H560L572 4H628L640 12H1200" fill="none" stroke="#3B0764" stroke-width="2"/>
-  <rect x="580" y="6" width="40" height="3" fill="#A855F7"/>
-  <rect class="pulse" x="0" y="11" width="160" height="2" fill="url(#p)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" aria-hidden="true">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#5B3A93" stop-opacity="0"/><stop offset=".5" stop-color="#5B3A93"/><stop offset="1" stop-color="#5B3A93" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 24H566M634 24H1200" stroke="url(#l)" stroke-width="1"/>
+  <g transform="translate(600 24)">
+    <g transform="rotate(-128)"><path d="M0 0C7 -9 19 -9 26 0C19 9 7 9 0 0Z" fill="#B79CE6"/></g>
+    <g transform="rotate(-52)"><path d="M0 0C7 -9 19 -9 26 0C19 9 7 9 0 0Z" fill="#B79CE6" opacity=".7"/></g>
+    <circle r="3" fill="#F7F5FB"/>
+  </g>
 </svg>

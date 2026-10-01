@@ -1,42 +1,31 @@
-<img width="100%" src="./assets/hero.svg" alt="MIGUEL — software development student" />
+<img width="100%" src="./assets/hero.svg" alt="Miguel, software development student" />
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-### ▚ DOSSIER &nbsp;<sub>個人記録</sub>
+### About me &nbsp;<sub>わたしについて</sub>
 
-|  |  |
-|:--|:--|
-| **名前** &nbsp; NAME | Miguel |
-| **職業** &nbsp; CLASS | Software Development Student |
-| **専門** &nbsp; FOCUS | Web &amp; desktop applications |
-| **状態** &nbsp; STATUS | `● ONLINE — building` |
+I'm studying software development, focused on web and desktop applications.
 
-<samp>Most of what's here is coursework, practice projects, and things I take apart to understand better.</samp>
+Most of what's here is coursework, practice projects, and things I take apart to understand better.
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-### ▚ LOADOUT &nbsp;<sub>装備</sub>
+### Tools I use &nbsp;<sub>道具</sub>
 
 <img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,git,apache&theme=dark" alt="Java, Python, PHP, MySQL, HTML, CSS, Git, Apache" />
 
 <br /><br />
 
-<img width="560" src="./assets/loadout.svg" alt="Java 10/10, SQL 9/10, PHP 8/10, Python 7/10, Security 6/10" />
+<img width="560" src="./assets/loadout.svg" alt="Skill levels: Java 10, SQL 9, PHP 8, Python 7, Security 6, out of 10" />
 
 <img width="100%" src="./assets/divider.svg" alt="" />
 
-### ▚ SIGNAL &nbsp;<sub>活動</sub>
+### Away from the keyboard &nbsp;<sub>休みの日</sub>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=miguelfdz014&bg_color=000000&color=F4F2F8&line=A855F7&point=E9D5FF&area=true&area_color=3B0764&hide_border=true&radius=0&title_color=F4F2F8&custom_title=contribution%20signal" alt="Contribution activity graph" />
+*Lifting at the gym, wandering Azeroth in World of Warcraft, and shooting black and white photography.*
 
-<img width="100%" src="./assets/divider.svg" alt="" />
+### Say hello &nbsp;<sub>便り</sub>
 
-### ▚ OFF-GRID &nbsp;<sub>私生活</sub>
+[![Instagram @miguelfdz014](https://img.shields.io/badge/@miguelfdz014-000000?style=for-the-badge&logo=instagram&logoColor=B79CE6)](https://instagram.com/miguelfdz014)
 
-`⌁ gym` &nbsp;&nbsp; `⌁ world of warcraft` &nbsp;&nbsp; `⌁ black and white photography`
-
-### ▚ COMMS &nbsp;<sub>通信</sub>
-
-[![instagram](https://img.shields.io/badge/@miguelfdz014-000000?style=for-the-badge&logo=instagram&logoColor=A855F7)](https://instagram.com/miguelfdz014)
-
-<img width="100%" src="./assets/footer.svg" alt="End of file" />
+<img width="100%" src="./assets/footer.svg" alt="Thanks for stopping by" />
