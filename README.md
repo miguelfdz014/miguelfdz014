@@ -2,7 +2,7 @@
 
 <img width="100%" src="./assets/ghibli-divider.svg" alt="" />
 
-### About me &nbsp;<sub>わたしについて</sub>
+### About me
 
 I'm studying software development, focused on web and desktop applications.
 
@@ -10,7 +10,7 @@ Most of what's here is coursework, practice projects, and things I take apart to
 
 <img width="100%" src="./assets/ghibli-divider.svg" alt="" />
 
-### Tools I use &nbsp;<sub>道具</sub>
+### Tools I use
 
 <img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,git,apache&theme=dark" alt="Java, Python, PHP, MySQL, HTML, CSS, Git, Apache" />
 
@@ -20,11 +20,11 @@ Most of what's here is coursework, practice projects, and things I take apart to
 
 <img width="100%" src="./assets/ghibli-divider.svg" alt="" />
 
-### Away from the keyboard &nbsp;<sub>休みの日</sub>
+### Away from the keyboard
 
 *Lifting at the gym, wandering Azeroth in World of Warcraft, and shooting black and white photography.*
 
-### Say hello &nbsp;<sub>便り</sub>
+### Say hello
 
 [![Instagram @miguelfdz014](https://img.shields.io/badge/@miguelfdz014-000000?style=for-the-badge&logo=instagram&logoColor=B79CE6)](https://instagram.com/miguelfdz014)
 
