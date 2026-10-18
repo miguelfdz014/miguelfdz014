@@ -48,6 +48,24 @@ Most of what lies in these halls is personal projects, experiments, and things I
 
 <p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
 
+## ⚜ Sigilla · The Seals
+
+> *Certifications sought, and the orders that grant them.*
+
+| Folio | Seal | Order | Status |
+|:-:|---|---|:-:|
+| **I** | Responsive Web Design | freeCodeCamp | ◐ *In progress* |
+| **II** | JavaScript | freeCodeCamp | ○ *Awaiting* |
+| **III** | Front End Development Libraries | freeCodeCamp | ○ *Awaiting* |
+| **IV** | Python | freeCodeCamp | ◐ *In progress* |
+| **V** | Relational Databases | freeCodeCamp | ○ *Awaiting* |
+| **VI** | Claude with the Anthropic API | Anthropic Academy | ○ *Awaiting* |
+| **VII** | Introduction to Cybersecurity | Cisco | ○ *Awaiting* |
+
+<sub>● sealed &nbsp;·&nbsp; ◐ in progress &nbsp;·&nbsp; ○ awaiting</sub>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
+
 ## ❧ The Workshop
 
 > *How a request travels through the house.*
@@ -65,9 +83,9 @@ Most of what lies in these halls is personal projects, experiments, and things I
 
 ## † Correspondence
 
-<p align="left">
+<p align="center">
+  <a href="https://github.com/miguelfdz014"><img src="https://img.shields.io/badge/GitHub-@miguelfdz014-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub @miguelfdz014"></a>
   <a href="https://instagram.com/miguelfdz014"><img src="https://img.shields.io/badge/Instagram-@miguelfdz014-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram @miguelfdz014"></a>
-  <a href="https://github.com/miguelfdz014"><img src="https://img.shields.io/badge/GitHub-miguelfdz014-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub miguelfdz014"></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
