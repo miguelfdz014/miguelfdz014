@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="W">
+  <style>
+    @font-face { font-family:'Black'; src:url(data:font/woff2;base64,d09GMgABAAAAAAQ8ABEAAAAABuwAAAPiB9oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhQbIBwwBmAANAgeCYJzERAKg2iDVAE2AiQDCAsGAAQgBQYHIAyBFhuqBQAGHv6/0/99BqmRtmtSkEHr62QuIM6DkOTR30KsupL78moCeoD5QFMBDsGs5Xt/whj9j25FKGBBCwhGtyGW6g+P0NboB/gdBBAMAAh/DwJJIgVhtXcPwh8FwOcDAI6YTyHy96Inj5k5hZTpY+bPJIUPLstKptiNCupRtQxERs3ywokSIAWZZFWWLqWCsQDaQppx4jQ5/vsfRkiCx6E41DWAhgpIgAxEIyOGSkGDApFw+nwt6Lv6lldz2U85TYwUIbwOFP2/hmDl6/hQMCC/yyCgn+uOEDt1Q/g2GFiTHyMAedTIAgORr2m2KdbbYnSBgZRvIHItBQZyvma/LWfYB7jSdG2rtrVj/FbNrk0eM/62ktHZ5pIJW/Ui7TYDXVOe8UEuy+1m3bycmaDrtQUGylkSxbNVl6A29RTJVKaP/FdgoOZ3abflzH6u/q7bq63mbrFah8Wi2W4/C1OuWs0WXWe6TV/L6uSKKfHfDT+vKVcd/idZBrqlWQvoW7cimTTL7dVeMm9N08c8g2fNpEDW7Dc4NSJn2KZ/db9ty+pmM4NUUnh0c+q0FhgE5HcxPTYrQsZbAMj4IxGO8PmQAZAAUMDGVwJewNHvgOxISZjmdl67Ev3hEI8nTf0YtG3wgTivNyzX4oGvB99xd1xYnf5h94fuwe6PBn34FYsavomfv5o1SQiwfAJbPrxn3Mve9pR6PIPYne5B+w/EPOhfR5wveGav84OmQ2uWupnZ/TGPDd6Bt/qp81CsB/2nVt/dqDq7ws+/NWv6UuWY9NKbXPK/bpbf/m7noc9ujjmyUpmy5+anZVd2r9uert+6lDQx+ZmkqNbQv9ocJSundG4cm2Q+sOupRx1i3ZaWtt4K7+Wk6pHrjnxwa/qsqaHblrxa12O+5+weMvxzdalptTfwfui0gPu71PnM33Ju7JiA/xsXfd608hVbi6O1XXl87MaZx2L+Hb5ucsNzV/ccufxscLVjf/iOM2s/v3X6HC8MDqt6LnbM8ay345Y98f1Y19u/fFHXMnbO047VM5dObvhv2PqJ+zPU0fM3b+sZtFx1jHb1A3gcK4HIeS1mTFiJzchEJewYgolYiI04iIt4iJd/e8iIFhU3Vr7HijSiuAQBfp8AlltTR4XV/+af7A/Aa9ETAfjh7+Ox5Pi8/lPVpwF/JAAEmBz/+cD/NKUU+M9DgNcl9VffcYamACRWIktEJhAkCa1HzTchc8CAPB5HoCLliYXahMAzXNUUkk4coYB/Hs8g6KGJEtKIgbc/g8TH3GUVw6hXUeYe+2S5hgqLGUcPVVZ11Z+GmThCZSOP44eCX54BPy8AAA==) format('woff2'); }
+    .vine { stroke-dasharray:260; stroke-dashoffset:260; animation: grow 3s .3s ease-out forwards; }
+    @keyframes grow { to { stroke-dashoffset:0 } }
+  </style>
+  <rect x="2" y="2" width="116" height="116" fill="#000" stroke="#fff" stroke-width="2"/>
+  <rect x="8" y="8" width="104" height="104" fill="none" stroke="#fff" stroke-width=".8"/>
+  <g fill="none" stroke="#9a9a9a" stroke-width="1.3" class="vine">
+    <path d="M14,106 C30,90 18,70 34,58 C50,46 40,26 58,16 C76,6 92,20 106,14"/>
+    <path d="M14,14 C26,30 44,22 52,36 M106,106 C92,96 96,80 82,74"/>
+  </g>
+  <g fill="#9a9a9a"><circle cx="34" cy="58" r="2.5"/><circle cx="58" cy="16" r="2.5"/><circle cx="82" cy="74" r="2.5"/>
+    <path d="M24,80 c6,-2 9,1 9,7 c-6,1 -9,-2 -9,-7z M90,30 c6,-2 9,1 9,7 c-6,1 -9,-2 -9,-7z"/></g>
+  <text x="60" y="88" text-anchor="middle" font-family="Black" font-size="82" fill="#fff" stroke="#000" stroke-width="2" paint-order="stroke">W</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="glint" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="lines"><rect x="40" y="18" width="360" height="8"/><rect x="500" y="18" width="360" height="8"/></clipPath>
+  </defs>
+  <style>
+    .g { animation: sweep 5s ease-in-out infinite; }
+    @keyframes sweep { from { transform:translateX(-120px) } to { transform:translateX(920px) } }
+    .orn { transform-origin:450px 22px; animation: turn 12s linear infinite; }
+    @keyframes turn { to { transform:rotate(360deg) } }
+  </style>
+  <g stroke="#9a9a9a" stroke-width="1">
+    <line x1="40" y1="19.5" x2="400" y2="19.5"/><line x1="40" y1="24.5" x2="400" y2="24.5"/>
+    <line x1="500" y1="19.5" x2="860" y2="19.5"/><line x1="500" y1="24.5" x2="860" y2="24.5"/>
+  </g>
+  <g clip-path="url(#lines)"><rect class="g" x="0" y="18" width="120" height="8" fill="url(#glint)"/></g>
+  <g fill="#fff">
+    <circle cx="412" cy="22" r="2.4"/><circle cx="488" cy="22" r="2.4"/>
+    <path d="M424,22 L436,16 L436,28 Z M476,22 L464,16 L464,28 Z"/>
+  </g>
+  <g class="orn">
+    <!-- cross patty -->
+    <path d="M450,6 L455,17 L466,12 L461,22 L466,32 L455,27 L450,38 L445,27 L434,32 L439,22 L434,12 L445,17 Z" fill="#fff"/>
+    <circle cx="450" cy="22" r="3" fill="#000"/>
+  </g>
+</svg>

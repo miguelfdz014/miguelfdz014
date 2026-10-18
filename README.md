@@ -1,44 +1,78 @@
-<img width="100%" src="./assets/academia-hero.svg" alt="Miguel, software developer" />
-
-<img width="100%" src="./assets/academia-divider.svg" alt="" />
-
-<h3 align="center"><i>I. &nbsp;About me</i></h3>
-
 <p align="center">
-I'm a software developer building web and desktop applications.<br />
-Most of what's here is personal projects, experiments, and things I take apart to understand better.
-</p>
-
-<img width="100%" src="./assets/academia-divider.svg" alt="" />
-
-<h3 align="center"><i>II. &nbsp;Tools of the trade</i></h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PHP-0b0b0b?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<br />
-<img src="https://img.shields.io/badge/HTML-efefef?style=for-the-badge&logo=html5&logoColor=black" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-efefef?style=for-the-badge&logo=css&logoColor=black" alt="CSS" />
-<img src="https://img.shields.io/badge/Git-efefef?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
-<img src="https://img.shields.io/badge/Apache-efefef?style=for-the-badge&logo=apache&logoColor=black" alt="Apache" />
+  <img src="assets/banner.svg" alt="Miguel, software developer" width="100%">
 </p>
 
 <p align="center">
-<img width="620" src="./assets/academia-ledger.svg" alt="Index of proficiencies: Java 10, SQL 9, PHP 8, Python 7, Security 6, out of 10" />
+  <img src="https://img.shields.io/badge/HTML-Structure-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-Style-ffffff?style=for-the-badge&logo=css&logoColor=white&labelColor=000000" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-Logic-ffffff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-Interfaces-ffffff?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" alt="React">
+  <br>
+  <img src="https://img.shields.io/badge/Python-Backend-ffffff?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-APIs-ffffff?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQL-Queries-ffffff?style=for-the-badge&labelColor=000000" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-ffffff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" alt="PostgreSQL">
+  <br>
+  <img src="https://img.shields.io/badge/Claude_API-AI-ffffff?style=for-the-badge&logo=claude&logoColor=white&labelColor=000000" alt="Claude API">
+  <img src="https://img.shields.io/badge/Git-Versioning-ffffff?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-Collaboration-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub">
 </p>
 
-<img width="100%" src="./assets/academia-divider.svg" alt="" />
+<p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
 
-<h3 align="center"><i>III. &nbsp;Away from the keyboard</i></h3>
+<img src="assets/initial.svg" alt="W" width="88" align="left">
 
-<p align="center"><i>Lifting at the gym, wandering Azeroth in World of Warcraft, and shooting black and white photography.</i></p>
+**ell met, traveller.** I am **Miguel**, a software developer who builds for the web, from the
+**face** a user sees, through the **engine** that serves it, down to the **vault** where its records are kept.
+Most of what lies in these halls is personal projects, experiments, and things I take apart to understand better.
 
-<h3 align="center"><i>IV. &nbsp;Correspondence</i></h3>
+<br clear="left">
 
 <p align="center">
-<a href="https://instagram.com/miguelfdz014"><img src="https://img.shields.io/badge/@miguelfdz014-0b0b0b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @miguelfdz014" /></a>
+  <i>“Simple is better than complex.<br>
+  Complex is better than complicated.”</i><br>
+  <sub>— from <b>The Zen of Python</b></sub>
 </p>
 
-<img width="100%" src="./assets/academia-footer.svg" alt="Thanks for stopping by" />
+<p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
+
+## ✠ Tabula · The Armoury
+
+| Folio | Domain | Tools of the trade | Its craft |
+|:-:|---|---|---|
+| **I** | The Face *(frontend)* | HTML · CSS · JavaScript · React | pages, components, the things people touch |
+| **II** | The Engine *(backend)* | Python · FastAPI | services, REST APIs, the logic beneath |
+| **III** | The Vault *(data)* | SQL · PostgreSQL | schemas, queries, records kept true |
+| **IV** | The Oracle *(AI)* | Claude API · tool use | agents and features that reason and act |
+| **V** | The Scriptorium *(craft)* | Git · GitHub | history, branches, collaboration |
+
+<p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
+
+## ❧ The Workshop
+
+> *How a request travels through the house.*
+
+```text
+  React ──▶ FastAPI ──▶ PostgreSQL
+    ▲          │
+    │          └──▶ Claude API (tools)
+    └──────── JSON ◀──┘
+```
+
+## ⁂ Away from the Keyboard
+
+*Lifting at the gym, wandering Azeroth in World of Warcraft, and shooting black and white photography.*
+
+## † Correspondence
+
+<p align="left">
+  <a href="https://instagram.com/miguelfdz014"><img src="https://img.shields.io/badge/Instagram-@miguelfdz014-ffffff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram @miguelfdz014"></a>
+  <a href="https://github.com/concord808030-tech"><img src="https://img.shields.io/badge/GitHub-concord808030--tech-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub concord808030-tech"></a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
+
+<p align="center">
+  <sub>✠ &nbsp;<i>Explicit est melius quam implicitum</i>&nbsp; ✠</sub><br>
+  <sub>Set down by <b>Miguel Fernandez</b> · <i>Anno Domini MMXXVI</i></sub>
+</p>
